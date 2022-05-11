@@ -1,0 +1,8 @@
+Bryan Tang / Joshua Hartle
+The UNT CSE machine can be used to run our files
+
+To compile our files and begin running them, a simple g++ *.cpp command is needed to compile and a ./a.out command is needed to run the files.
+
+In our files, a user input of (1-4) will be needed to choose which stats to improve.
+
+After that, the program will execute itself indefinitely, until a stop command of ctrl c is given.
